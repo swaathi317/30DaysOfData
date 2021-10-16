@@ -1,7 +1,7 @@
 # 30DaysOfData
-Data is always amazing. If we process them properly, we can obtain great insights. This repository contains my day-to-day activities and learnings of my Data Analysis and Machine Learning Journey.
-Before recording my experience, here are the skillsets I already possess with respect to Data Analysis and ML:
-- Python and Python libraries such as NumPy, Pandas, Matplotlib
+Data is always amazing. If we process them properly, we can obtain great insights. This repository contains my day-to-day activities and learnings of my Data Analytics and Machine Learning Journey.
+Before recording my experience, here are the skillsets I already possess with respect to Data Analytics and ML:
+- Python 
 - Hadoop MapReduce (with both JAVA and Python)
 - Working with Spark RDDs and PySpark
 - Elastic MapReduce (AWS)
@@ -28,3 +28,13 @@ Topics covered in the article:
       * Inverse of matrix
       * Matrix Transpose
   4. Inner Products
+
+I also enrolled myself into the Machine Learning course taught by Andrew NG (https://www.coursera.org/learn/machine-learning). I completed the first week's portions today. I also converted my learning notes into an article.
+
+Article Link:
+https://swaathi317.medium.com/linear-regression-with-one-variable-b5f59f92ab22
+
+Topics learned today and covered in the article:
+1. Univariate Linear Regression
+2. Cost/Loss function (with one variable)
+3. Gradient Descent (with one variable)
