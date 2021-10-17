@@ -53,3 +53,20 @@ Topics covered in the article:
 3. Building a Big Data strategy for organizations
 4. Steps in the Data Science process
 
+## Day 3
+
+I learnt about Multivariate Linear Regression today and also completed Week-2 of the Machine Learning course taught by Andrew NG (https://www.coursera.org/learn/machine-learning). I have also written an article regarding Multivariate Linear regression in Medium with my understanding. 
+
+Article Link:
+https://swaathi317.medium.com/multivariate-linear-regression-1c06b12cb982
+
+Topics covered in the article:
+1. Multivariate Linear Regression
+2. Gradient Descent for multiple variables
+    * How to check if gradient descent is working properly?
+    * Feature Scaling 
+    * Mean Normalization
+    * Features and Polynomial Regression
+3. Normal Equation
+    * Normal Equation and Non-invertibility
+ 
