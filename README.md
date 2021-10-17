@@ -38,3 +38,18 @@ Topics learned today and covered in the article:
 1. Univariate Linear Regression
 2. Cost/Loss function (with one variable)
 3. Gradient Descent (with one variable)
+
+
+## Day 2
+
+I enrolled in a Introduction to Big Data course(https://www.coursera.org/learn/big-data-introduction) today to learn more about addressing the questions of why we need big data and how a big data strategy is formed. I completed the course and I have also converted my personal notes from the course into a Medium article.
+
+Article Link:
+https://swaathi317.medium.com/big-data-an-introduction-b7bc048081c9
+
+Topics covered in the article:
+1. Introduction to Big Data
+2. Who needs Big data solutions
+3. Building a Big Data strategy for organizations
+4. Steps in the Data Science process
+
