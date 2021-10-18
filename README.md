@@ -70,3 +70,16 @@ Topics covered in the article:
 3. Normal Equation
     * Normal Equation and Non-invertibility
  
+ 
+I also implemented an Univariate Regression Model using the Salary Dataset (https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression), in order to predict the salary of employees. 
+
+Implementation Link (contains Dataset and Jupyter Notebook): 
+https://github.com/swaathi317/30DaysOfData/tree/main/Univariate%20Linear%20Regression
+
+Topics learned and implemented:
+- NumPy
+- Matplotlib
+- Pandas
+- Exploratory Data Analysis
+- Model building (Finding the minimum Coefficient, predicting outcome)
+- Evaluation techniques (Mean Square Error, Accuracy)
