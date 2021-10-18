@@ -55,7 +55,7 @@ Topics covered in the article:
 
 ## Day 3
 
-I learnt about Multivariate Linear Regression today and also completed Week-2 of the Machine Learning course taught by Andrew NG (https://www.coursera.org/learn/machine-learning). I have also written an article regarding Multivariate Linear regression in Medium with my understanding. 
+I learned about Multivariate Linear Regression today and also completed Week-2 of the Machine Learning course taught by Andrew NG (https://www.coursera.org/learn/machine-learning). I have also written an article regarding Multivariate Linear regression in Medium with my understanding. 
 
 Article Link:
 https://swaathi317.medium.com/multivariate-linear-regression-1c06b12cb982
@@ -71,7 +71,7 @@ Topics covered in the article:
     * Normal Equation and Non-invertibility
  
  
-I also implemented an Univariate Regression Model using the Salary Dataset (https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression), in order to predict the salary of employees. 
+I also implemented a Univariate Regression Model using the Salary Dataset (https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression), in order to predict the salary of employees. 
 
 Implementation Link (contains Dataset and Jupyter Notebook): 
 https://github.com/swaathi317/30DaysOfData/tree/main/Univariate%20Linear%20Regression
