@@ -86,7 +86,13 @@ Topics learned and implemented:
 
 
 ## Day 4
-I learnt about Spark Dataframes and Spark SQL. Downloaded a dataset from kaggle and processed the data.
+Today I started reading O'Reilly's Learning Spark by Jules S. Damji, Brooke Wenig, Tathagata Das, and Denny Lee (https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf). The book covers an in-depth knowledge of Spark concepts and implementation with PySpark. 
+
+Topics learned and implemented on a big data set today:
+- Basic Spark concepts: Transformation, Action, Lazy Evaluation
+- Spark APIs
+- Built-in data sources: Spark SQL tables and views, Spark Dataframes
+
 
 I also worked on Kaggle problem (https://www.kaggle.com/pavellexyr/one-million-reddit-questions) to analyse a dataset with One Million Kaggle Questions. 
 
