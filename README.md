@@ -83,3 +83,14 @@ Topics learned and implemented:
 - Exploratory Data Analysis
 - Model building (Finding the minimum Coefficient, predicting outcome)
 - Evaluation techniques (Mean Square Error, Accuracy)
+
+
+## Day 4
+I learnt about Spark Dataframes and Spark SQL. Downloaded a dataset from kaggle and processed the data.
+
+I also worked on Kaggle problem (https://www.kaggle.com/pavellexyr/one-million-reddit-questions) to analyse a dataset with One Million Kaggle Questions. 
+
+Here is the Kaggle Link:
+https://www.kaggle.com/swaathis/factors-that-make-a-question-better
+
+I have also uploaded the file in kaggle - https://github.com/swaathi317/30DaysOfData/blob/main/DataAnalysis/What%20makes%20a%20good%20reddit%20question.ipynb
