@@ -100,3 +100,23 @@ Here is the Kaggle Link:
 https://www.kaggle.com/swaathis/factors-that-make-a-question-better
 
 I have also uploaded the file in kaggle - https://github.com/swaathi317/30DaysOfData/blob/main/DataAnalysis/What%20makes%20a%20good%20reddit%20question.ipynb
+
+
+## Day 5, Day 6, Day 7, Day 8, Day 9, Day 10
+For the past six days, I enrolled myself in DataStax's Apache Cassandra Developer path curriculum courses.
+As a part of the DataStax's Developer path curriculum (https://lnkd.in/gb5NX2h6), I completed the below courses.
+1. DS101: Introduction to Apache Cassandra
+2. DS201: Foundations of Apache Cassandra™ and DataStax Enterprise
+3. DS220: Data Modeling with Apache Cassandra™ and DataStax Enterprise
+
+![Screenshot 2021-11-15 093723](https://user-images.githubusercontent.com/63001832/141831018-d6e49461-ad02-4005-8972-d655da4761d0.jpg)
+
+These courses are made up of video lessons and hands-on exercises that helped me to implement different use-cases.
+It was an exciting journey to learn and implement Cassandra's data modeling for several use-cases. In the relational world, we are always focused on #normalization but designing the database with the respect to the #queries (workflow of the application) has led Cassandra to achieve the highest data access rate of O(1).
+
+I have completed the Apache Cassandra 3 Developer Associate Certification, which is a proctored online exam conducted by DataStax.
+
+![Cassandra developer certification](https://user-images.githubusercontent.com/63001832/141831156-67c0e8c7-38da-4504-87b8-e489b3f11f65.jpg)
+
+
+
